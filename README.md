@@ -10,7 +10,7 @@ I found some interesting links :
 - [Chad Vernon "Your first plugin"](http://www.chadvernon.com/blog/resources/maya-api-programming/your-first-plug-in/)
 - [Cult of Rig "Compiling C++ Plugins for Maya"](https://www.youtube.com/playlist?list=PLJJ38PGlUywXusfXZbK90NNn0Xi2VfK5h)
 
-## Steps (Windows)
+## Steps
 Below are the steps for generating the plugin. You can also create and configurate a Visual Studio project with CMake if you feel comfortable with it.
 - Download and install the Maya Developer Kit (tutorial link above if needed)
 - Create a project with an empty C++ file in Visual Studio
